@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @ajinesh703
-- 👀 I’m interested in python
-- 🌱 I’m currently learning software developement
-- ⚡ Fun fact: i'd like to dream in sunshine
-
-<!---
-ajinesh703/ajinesh703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![WhatsApp Image 2024-08-25 at 20 22 21_d5274c52](https://github.com/user-attachments/assets/cdd5a14f-cf67-4886-8444-a5c121f65931)
