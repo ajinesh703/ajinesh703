@@ -5,7 +5,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 
 - 🌱 I’m currently learning advanced data analysis techniques and machine learning algorithms.
 - 💬 Ask me about web development, Python, and data visualization.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [email@example.com](mailto:ajineshpratap@gmail.com)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
