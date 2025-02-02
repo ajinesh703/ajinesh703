@@ -23,9 +23,9 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 ![Ajinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinesh703&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [Ajinesh](https://www.linkedin.com/in/ajinesh)
+- LinkedIn: [Ajinesh](https://www.linkedin.com/in/ajinesh-pratap-singh-b59141248/)
 - Twitter: [@ajinesh703](https://twitter.com/ajinesh703)
-- Personal Website: [ajinesh.com](https://ajinesh.com)
+- Personal Website: [ajinesh.com](https://codepen.io/Ajinesh-Pratap-Singh/pen/dPbwxPJ)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
