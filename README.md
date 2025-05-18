@@ -1,31 +1,50 @@
 # Hi there, I'm Ajinesh! 👋
 
-## About Me
-I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. My interests span across various domains including web development, data science, and machine learning.
+## 👨‍💻 About Me
+I'm a passionate developer enthusiastic about building impactful solutions and exploring the latest in technology. My interests span web development, data science, AI, and cloud computing.
 
-- 🌱 I’m currently learning advanced data analysis techniques and machine learning algorithms.
-- 💬 Ask me about web development, Python, and data visualization.
-- 📫 How to reach me: [ajinesh pratap singh](mailto:ajineshpratap@gmail.com)
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
+- 🌱 **Currently Learning:** Advanced data analytics, deep learning, and scalable cloud architectures.
+- 💬 **Ask Me About:** Full-stack web development, Python, JavaScript, and data visualization.
+- 📫 **Reach Me At:** [ajineshpratap@gmail.com](mailto:ajineshpratap@gmail.com)
+- 😄 **Pronouns:** They/Them
+- ♟️ **Fun Fact:** I love chess, brain teasers, and contributing to open-source projects.
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+---
 
-## 📈 GitHub Stats
-![Ajinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinesh703&show_icons=true&theme=radical)
+## 🚀 Technologies & Tools
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 
-## 📫 Connect with Me
-- LinkedIn: [Ajinesh](https://www.linkedin.com/in/ajinesh-pratap-singh-b59141248/)
-- Twitter: [@ajinesh703](https://twitter.com/ajinesh703)
-- Personal Website: [ajinesh.com](https://codepen.io/Ajinesh-Pratap-Singh/pen/dPbwxPJ)
+---
+
+## 📊 GitHub Stats & Activity
+
+| <img src="https://github-readme-stats.vercel.app/api?username=ajinesh703&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="ajinesh703's github stats" width="48%" /> | <img src="https://streak-stats.demolab.com?user=ajinesh703&theme=radical&hide_border=true" alt="ajinesh703's streak stats" width="48%" /> |
+|:---:|:---:|
+
+<!-- Dynamic language stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinesh703&layout=compact&theme=radical&hide=html,css)
+
+<!-- Contribution Graph -->
+![Ajinesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajinesh703&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Ajinesh%20Pratap%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinesh-pratap-singh-b59141248/)
+[![Twitter](https://img.shields.io/badge/-@ajinesh703-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajinesh703)
+[![Personal Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ajinesh-Pratap-Singh/pen/dPbwxPJ)
+
+---
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -34,4 +53,11 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 - [Understanding React Hooks](https://ajinesh.com/blog/react-hooks)
 <!-- BLOG-POST-LIST:END -->
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
+---
+
+## 🤝 Let's Collaborate!
+I'm always open to collaborating on new and exciting projects or just chatting about tech, open source, or career growth. Feel free to reach out!
+
+---
+
+> *Thanks for stopping by! May your code always compile and your bugs be easily squashed.*
