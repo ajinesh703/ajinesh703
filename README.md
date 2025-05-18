@@ -42,7 +42,7 @@ I'm a passionate developer enthusiastic about building impactful solutions and e
 
 [![LinkedIn](https://img.shields.io/badge/-Ajinesh%20Pratap%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinesh-pratap-singh-b59141248/)
 [![Twitter](https://img.shields.io/badge/-@ajinesh703-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajinesh703)
-[![Personal Portfolio](https://ajinesh74.vercel.app/)
+[![Personal Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge&logo=codepen&logoColor=white)](https://ajinesh74.vercel.app/)
 
 ---
 
