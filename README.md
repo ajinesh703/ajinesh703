@@ -7,7 +7,7 @@
 
 ## ⚡ About Me
 
-- 🧠 Strong in **DSA (2900+ problems solved)**
+- 🧠 Strong in **DSA (1000+ problems solved)**
 - 🤖 Building **AI-powered applications using RAG & LLMs**
 - 🌐 Full-stack developer (React + Node + Python)
 - 🎯 Goal: Crack top tech roles & build impactful products
