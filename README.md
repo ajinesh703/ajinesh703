@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ajinesh703"><img src="https://komarev.com/ghpvc/?username=ajinesh703&style=flat-square&color=378ADD"/></a>
-  <a href="https://leetcode.com/ajinesh703"><img src="https://img.shields.io/badge/LeetCode-178%2B%20solved-FFA116?style=flat-square&logo=leetcode"/></a>
+  <a href="https://leetcode.com/ajinesh703"><img src="https://img.shields.io/badge/LeetCode-1178%2B%20solved-FFA116?style=flat-square&logo=leetcode"/></a>
   <img src="https://img.shields.io/badge/GSoC%202026-SymPy%20Applicant-4285F4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square"/>
 </p>
