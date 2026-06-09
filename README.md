@@ -37,7 +37,7 @@
 | 🤖 **Liana (RAG Chatbot)** | Local LLM with personality sliders | FAISS · Ollama · Sentence Transformers |
 | 📄 **ATS Resume Checker** | Resume scoring via TF-IDF similarity | scikit-learn · NLTK · Streamlit |
 | 🍎 **Fruit Shelf Life Detector** | Multi-output vision model (classify + regress) | MobileNetV2 · Keras |
-| 📚 [**LeetCode Help**](https://github.com/ajinesh703/Leetcode-Help) | 178+ DSA problems, pattern-based | TypeScript · Python |
+| 📚 [**LeetCode Help**](https://github.com/ajinesh703/Leetcode-Help) | 1100+ DSA problems, pattern-based | TypeScript · Python |
 
 ---
 
