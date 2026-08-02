@@ -16,6 +16,15 @@
 
 ---
 
+## 👋 About Me
+
+- 🔭 Building **AI/ML systems** — RAG pipelines, computer vision, agentic workflows
+- 🎓 B.Tech ECE undergrad, self-taught into full-stack + ML engineering
+- 🌱 Actively contributing to **SymPy**, applying for **GSoC 2026**
+- 💬 Ask me about RAG pipelines, vision models, or competitive programming
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -59,6 +68,12 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinesh703&theme=default&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=ajinesh703" alt="Contribution Stats"/>
+  </a>
 </p>
 
 ---
